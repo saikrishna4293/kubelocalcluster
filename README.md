@@ -1,4 +1,4 @@
-# TO setup a Kubernetes Local cluster with Vagrant
+# To setup a Kubernetes Local cluster with Vagrant
 
 Here we have 
   * one master ubuntu <br />
